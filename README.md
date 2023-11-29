@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuré</h1>
 <h3 align="center">Electrical Engineer turned Software Engineer</h3>
 
-- 🌱 I’m currently learning **Rust & WASM plus a little bit of Haskell**
+- 🌱 I'm currently developing a CRM, CPQ, Invoicing and Order Processing Application Template called **Sweeter**
 
 <p align="left">
 </p>
